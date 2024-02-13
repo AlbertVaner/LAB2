@@ -1,0 +1,42 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\Debug\Lab_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab_2.map</FILE>
+  <FILE>Lab_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <TABLAD><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>24</LINE></TABLAD>
+  <setup><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>26</LINE></setup>
+  <prescaler><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>141</LINE></prescaler>
+  <MAIN_LOOP><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>61</LINE></MAIN_LOOP>
+  <DELAY><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>149</LINE></DELAY>
+  <ALARMA><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>91</LINE></ALARMA>
+  <CONTAR_LEDS><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>82</LINE></CONTAR_LEDS>
+  <REINICIAR_LEDS><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>137</LINE></REINICIAR_LEDS>
+  <PRENDER><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>98</LINE></PRENDER>
+  <APAGAR><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>101</LINE></APAGAR>
+  <COMPROBAR_BOTO><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>104</LINE></COMPROBAR_BOTO>
+  <SUMAR><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>113</LINE></SUMAR>
+  <RESTAR><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>125</LINE></RESTAR>
+  <SALTAR><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>157</LINE></SALTAR>
+  <LOOP_DELAY><FILE>C:\Users\Albert\Documents\Atmel Studio\7.0\Lab_2\Lab_2\main.asm</FILE><LINE>151</LINE></LOOP_DELAY>
+ </LABELS>
+</ASSEMBLER_INFO>
